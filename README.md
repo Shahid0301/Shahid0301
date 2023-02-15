@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahid0301
 - 👀 I’m interested in coding and learning new skills 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning DSA in JAVA 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me professionalshahid0@gmail.com
 
