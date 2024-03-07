@@ -1,4 +1,4 @@
-![MasterHead]([https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://github.com/Shahid0301/CoverImage/blob/master/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.jpg?raw=true))
+![MasterHead](https://github.com/Shahid0301/CoverImage/blob/master/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Shahid khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
