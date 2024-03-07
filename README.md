@@ -1,9 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead]([https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://github.com/Shahid0301/CoverImage/blob/master/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.jpg?raw=true))
 <h1 align="center">Hi 👋, I'm Shahid khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img alt="Coder GIF" align="right" height=250 width=400 src="[https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif](https://github.com/Shahid0301/CoverImage/blob/master/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.jpg)" />
+<img alt="Coder GIF" align="right" height=250 width=400 src="https://github.com/Shahid0301/CoverImage/blob/master/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.jpg?raw=true" />
 
 
 - 🔭 I’m currently working on [WorldWise](https://github.com/Shahid0301/WorldWise)
