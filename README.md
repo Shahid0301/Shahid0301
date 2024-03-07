@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img alt="Coder GIF" align="right" height=250 width=400 src="https://github.com/Shahid0301/CoverImage/blob/master/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.jpg?raw=true" />
+<img alt="Coder GIF" align="right" height=250 width=400 src="https://camo.githubusercontent.com/8533f625ad7fa66f1ad21ab15910f8821eb401186e29101c4761d0908fc3ca10/68747470733a2f2f796f75776562736f6c7574696f6e7a2e66696c65732e776f726470726573732e636f6d2f323032312f31322f6c6561726e2d7765622d64657369676e696e672e676966" />
 
 
 - 🔭 I’m currently working on [WorldWise](https://github.com/Shahid0301/WorldWise)
