@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [WorldWise](https://github.com/Shahid0301/WorldWise)
+- 🔭 I’m currently working on [Natours](https://github.com/Shahid0301/WorldWise)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://shahid0301.github.io/Portfolio/](https://shahid0301.github.io/Portfolio/)
 
